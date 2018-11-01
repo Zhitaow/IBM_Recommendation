@@ -1,6 +1,7 @@
 # Udacity Data Science Nanodegree
 ## Recommemdations with IBM
-
+### Comments Received from Udacity Review
+ [https://review.udacity.com/#!/reviews/1539010](https://review.udacity.com/#!/reviews/1539010)
 ### Project Overview
 For this project you will be looking at the interactions that users have with articles on the IBM Watson Studio platform. In order to determine which articles to show to each user, you will be performing a study of the data available on the IBM Watson Studio platform. You can create your own account to become a part of their community, and get a better understanding of their data by creating an account on the platform [here](https://dataplatform.cloud.ibm.com/).
 
